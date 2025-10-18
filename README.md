@@ -3,6 +3,8 @@ Flexible estimation of difference-in-differences regression with staggered imple
 
 Flexible estimation of difference-in-differences regression with staggered implementation timing Use flexdid With STATA 19
 
+https://www.youtube.com/watch?v=1UVGtVNTjO8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
